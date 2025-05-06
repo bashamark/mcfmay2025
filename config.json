@@ -1,9 +1,9 @@
 {
   "radio": [
     {
-      "radio_name": "Your Single Radio",
-      "radio_genre": "Entertainment",
-      "radio_url": "http://86.107.235.38:9000/smartnroll",
+      "radio_name": "MCF Radio",
+      "radio_genre": "Gospel Radio",
+      "radio_url": "https://gospelradio.256cloud.com/listen/mcf_casterfm/radio.mp3",
       "radio_image_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/radio-image.jpg",
       "background_image_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/radio-background.gif",
       "blur_radio_background": "true",
