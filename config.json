@@ -3,7 +3,8 @@
     {
       "radio_name": "MCF Radio",
       "radio_genre": "Gospel Radio",
-      "radio_url": "https://gospelradio.256cloud.com/listen/mcf_casterfm/radio.mp3",
+      "radio_url": "http://51.83.134.192/s79fbbb432/listen",
+      "radio_url_2": "https://gospelradio.256cloud.com/listen/mcf_casterfm/radio.mp3",
       "radio_image_url": "https://raw.githubusercontent.com/bashamark/mcfmay2025/refs/heads/main/radio_image.png",
       "background_image_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/radio-background.gif",
       "blur_radio_background": "true",
